@@ -33,4 +33,4 @@
 ## 8. Adjust resolution so Mac screen fill monitor
 1. VMWare uses windows resolution to adjust Mac desktop. 
 1. So, adjust your windows desktop resolution  until your MacOS desktop fill entire screen. 
-1. See [How to adjust Windows resolution](https://www.laptopmag.com/articles/change-screen-resolution-in-windows-10)
+1. See <a href="https://www.laptopmag.com/articles/change-screen-resolution-in-windows-10" target="_blank">How to adjust Windows resolution</a>
