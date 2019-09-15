@@ -7,8 +7,9 @@
 1. 40gb free space
 1. 8 or more gb Ram
 1. Intel Virtualization is enabled
-   1. [View steps to see if Intel Virtualization is enabled](settings.md)
    1. <a href="http://ioscourse.co/InstallMacOnWindows/settings.html" target="_blank">View steps to see if Intel Virtualization is enabled</a>
+   1. <a href="https://www.intel.com/content/www/us/en/support/articles/000007139/server-products.html" target="_blank">View steps to enable Intel Virtualization</a>
+
    
 ## 2. Install Apps
 1. [VMWare Player 15 (Free)](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
