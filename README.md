@@ -3,6 +3,7 @@
 ### [Watch Step by Step Podcast](https://drive.google.com/file/d/1-az3QoNIEDAswRVwv9AuInBhoJZZe2K3/view)
 
 ## 1. Requirements:
+[View steps to see system information](settings.md)
 1. Intel Processor (i5 or i7)
 1. 40gb free space
 1. 8 or more gb Ram
