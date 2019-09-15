@@ -1,6 +1,6 @@
 # Install Mac OS Mojave on Windows
 
-### [Watch Step by Step Podcast](https://drive.google.com/file/d/1-az3QoNIEDAswRVwv9AuInBhoJZZe2K3/view)
+### <a href="https://drive.google.com/file/d/1-az3QoNIEDAswRVwv9AuInBhoJZZe2K3/view" target="_blank">Watch Step by Step Podcast</a>
 
 ## 1. Requirements:
 1. Intel Processor (i5 or i7)
