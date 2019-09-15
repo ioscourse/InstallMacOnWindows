@@ -3,12 +3,12 @@
 ### [Watch Step by Step Podcast](https://drive.google.com/file/d/1-az3QoNIEDAswRVwv9AuInBhoJZZe2K3/view)
 
 ## 1. Requirements:
-[View steps to see system information](settings.md)
 1. Intel Processor (i5 or i7)
 1. 40gb free space
 1. 8 or more gb Ram
-1. Intel Virtualization is enabled : Make sure bios Intel Virtualization is enabled (See Speecy)
-    * if not, or you are unsure go here (Links to an external site.) to enable in your computers bios settings)
+1. Intel Virtualization is enabled
+   1. [View steps to see if Intel Virtualization is enabled](settings.md)
+   1. [View steps to enable Intel Virtualization](https://www.intel.com/content/www/us/en/support/articles/000007139/server-products.html)
     
 ## 2. Install Apps
 1. [VMWare Player 15 (Free)](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
