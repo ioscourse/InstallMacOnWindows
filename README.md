@@ -10,13 +10,13 @@
 1. Intel Virtualization is enabled : Make sure bios Intel Virtualization is enabled (See Speecy)
     * if not, or you are unsure go here (Links to an external site.) to enable in your computers bios settings)
     
-## 2. Download and extract files from dropbox (you will need 7zip app)
-1. Mojave: download [MacOsMojave.rar](https://www.dropbox.com/s/1x4pcbl4tryt98m/MacOSMojave.rar?dl=0) 
-1. Unlock VMWare: [Unlock-master.zip](https://www.dropbox.com/s/psh8m5iuuask7s3/unlocker-master.zip?dl=0) 
-
-## 3. Install Apps
+## 2. Install Apps
 1. [VMWare Player 15 (Free)](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
 1. [7zip (Free)](https://www.7-zip.org/download.html)
+    
+## 3. Download and extract files from dropbox (you will need 7zip app)
+1. Mojave: download [MacOsMojave.rar](https://www.dropbox.com/s/1x4pcbl4tryt98m/MacOSMojave.rar?dl=0) 
+1. Unlock VMWare: [Unlock-master.zip](https://www.dropbox.com/s/psh8m5iuuask7s3/unlocker-master.zip?dl=0) 
 
 ## 4. Run Unlocker file as administrator
 1. Go to unlocker folder
