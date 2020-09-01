@@ -17,7 +17,7 @@
     
 ## 3. Download and extract files from dropbox (you will need 7zip app)
 1. Mojave: download [MacOsMojave.rar](https://www.dropbox.com/s/1x4pcbl4tryt98m/MacOSMojave.rar?dl=0) 
-1. Unlock VMWare: [Unlock-master.zip](https://github.com/ioscourse/InstallMacOnWindows/blob/master/vmware%20unlocker.zip) 
+1. Unlock VMWare: [Unlock-master.zip](https://github.com/ioscourse/InstallMacOnWindows/raw/master/vmware%20unlocker.zip) 
 
 ## 4. Run Unlocker file as administrator
 1. Go to unlocker folder
